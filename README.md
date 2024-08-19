@@ -1,7 +1,7 @@
 # Hospitality-Domain-Analysis
 **Project Summary: AtliQ Grants Hotel Analysis**
 
-# Objective:
+**Objective:**
 This project aimed to extract actionable insights into hotel performance, booking behaviors, and customer preferences. By analyzing a comprehensive dataset of hotel bookings, the goal was to uncover key trends that could drive strategic decisions, optimize operations, and elevate customer satisfaction.
 
 # Data and Methodology:
